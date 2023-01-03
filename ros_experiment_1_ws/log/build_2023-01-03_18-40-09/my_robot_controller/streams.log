@@ -1,0 +1,35 @@
+[0.290s] Invoking command in '/experiments/ros_experiment_1_ws/src/my_robot_controller': PYTHONPATH=/experiments/ros_experiment_1_ws/build/my_robot_controller/prefix_override:/experiments/ros_experiment_1_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /experiments/ros_experiment_1_ws/build/my_robot_controller/build install --record /experiments/ros_experiment_1_ws/build/my_robot_controller/install.log --single-version-externally-managed
+[0.402s] running egg_info
+[0.403s] creating ../../build/my_robot_controller/my_robot_controller.egg-info
+[0.403s] writing ../../build/my_robot_controller/my_robot_controller.egg-info/PKG-INFO
+[0.403s] writing dependency_links to ../../build/my_robot_controller/my_robot_controller.egg-info/dependency_links.txt
+[0.403s] writing entry points to ../../build/my_robot_controller/my_robot_controller.egg-info/entry_points.txt
+[0.403s] writing requirements to ../../build/my_robot_controller/my_robot_controller.egg-info/requires.txt
+[0.403s] writing top-level names to ../../build/my_robot_controller/my_robot_controller.egg-info/top_level.txt
+[0.403s] writing manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[0.404s] reading manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[0.405s] writing manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[0.405s] running build
+[0.405s] running build_py
+[0.405s] creating /experiments/ros_experiment_1_ws/build/my_robot_controller/build
+[0.405s] creating /experiments/ros_experiment_1_ws/build/my_robot_controller/build/lib
+[0.405s] creating /experiments/ros_experiment_1_ws/build/my_robot_controller/build/lib/my_robot_controller
+[0.405s] copying my_robot_controller/__init__.py -> /experiments/ros_experiment_1_ws/build/my_robot_controller/build/lib/my_robot_controller
+[0.405s] running install
+[0.405s] running install_lib
+[0.405s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.405s]   warnings.warn(
+[0.405s] creating /experiments/ros_experiment_1_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[0.405s] copying /experiments/ros_experiment_1_ws/build/my_robot_controller/build/lib/my_robot_controller/__init__.py -> /experiments/ros_experiment_1_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[0.406s] byte-compiling /experiments/ros_experiment_1_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/__init__.py to __init__.cpython-310.pyc
+[0.406s] running install_data
+[0.406s] creating /experiments/ros_experiment_1_ws/install/my_robot_controller/share/ament_index
+[0.406s] creating /experiments/ros_experiment_1_ws/install/my_robot_controller/share/ament_index/resource_index
+[0.406s] creating /experiments/ros_experiment_1_ws/install/my_robot_controller/share/ament_index/resource_index/packages
+[0.406s] copying resource/my_robot_controller -> /experiments/ros_experiment_1_ws/install/my_robot_controller/share/ament_index/resource_index/packages
+[0.406s] copying package.xml -> /experiments/ros_experiment_1_ws/install/my_robot_controller/share/my_robot_controller
+[0.406s] running install_egg_info
+[0.407s] Copying ../../build/my_robot_controller/my_robot_controller.egg-info to /experiments/ros_experiment_1_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info
+[0.407s] running install_scripts
+[0.419s] writing list of installed files to '/experiments/ros_experiment_1_ws/build/my_robot_controller/install.log'
+[0.432s] Invoked command in '/experiments/ros_experiment_1_ws/src/my_robot_controller' returned '0': PYTHONPATH=/experiments/ros_experiment_1_ws/build/my_robot_controller/prefix_override:/experiments/ros_experiment_1_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /experiments/ros_experiment_1_ws/build/my_robot_controller/build install --record /experiments/ros_experiment_1_ws/build/my_robot_controller/install.log --single-version-externally-managed
